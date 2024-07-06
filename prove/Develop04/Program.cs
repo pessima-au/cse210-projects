@@ -2,7 +2,7 @@ using System;
 using System.Net;
 
 
-// IAsyncDisposable have added creativity to ensure that prompts and questions are not reapeated 
+// I have added creativity to ensure that prompts and questions are not reapeated 
 // until all prompts and questions in the list are exhausted. I accomplished this by 
 // adding the 'usedPrompts' and 'usedQuestions' attributes in the ReflectingActivity.
 class Program
