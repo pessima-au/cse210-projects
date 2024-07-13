@@ -1,0 +1,4 @@
+0
+CheckListGoal;study;Complete  my lesson for the weekend;50;0;1;500
+CheckListGoal;teach;Teach my kids;50;0;1;500
+SimpleGoal;visit;Visit the vamboi family;100;False

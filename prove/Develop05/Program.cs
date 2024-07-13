@@ -1,9 +1,11 @@
 using System;
-
-class Program
+using EternalQuest;
+// I added an extra method to display and animation followed by a message that a goal has been achieved.
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main()
     {
-        Console.WriteLine("Hello Develop05 World!");
+        var manager = new GoalManager();
+        manager.Start();
     }
 }
